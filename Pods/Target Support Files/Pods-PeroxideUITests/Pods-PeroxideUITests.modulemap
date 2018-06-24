@@ -1,0 +1,6 @@
+framework module Pods_PeroxideUITests {
+  umbrella header "Pods-PeroxideUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

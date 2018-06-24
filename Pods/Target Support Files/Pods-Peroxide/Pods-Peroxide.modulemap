@@ -1,0 +1,6 @@
+framework module Pods_Peroxide {
+  umbrella header "Pods-Peroxide-umbrella.h"
+
+  export *
+  module * { export * }
+}
